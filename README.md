@@ -1,6 +1,6 @@
 Hello, I'm Luis.
 
-This is a program written in Python made to do basic calculations from a starter level physics class. (I was feeling nostalgic.)
+This is a program written in Python 3.7.9 made to do basic calculations from a starter level physics class. (I was feeling nostalgic.)
 
 Upon startup, the program will ask the user for what variation of the principal velocity formulas they want to use in order to find a specific variable. This will either be v, final velocity, u, initial velocity, a, acceleration, or t, time.
 
